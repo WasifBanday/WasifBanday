@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wasif_manzoor-11&bg_color=000000&color=ffffff&line=1bd03f&point=e1b40e&area=true&hide_border=true)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WasifBanday&bg_color=000000&color=ffffff&line=1bd03f&point=e1b40e&area=true&hide_border=true)]
